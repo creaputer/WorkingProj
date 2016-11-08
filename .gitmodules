@@ -1,0 +1,3 @@
+[submodule "ChildPrj1"]
+	path = ChildPrj1
+	url = https://github.com/creaputer/ChildPrj1.git
